@@ -1,9 +1,5 @@
 Hi, I’m Rohit Kumar from Bihar, India. I completed my schooling at JEEWAN International School and my senior secondary education at Laxmi Narayan Dubey College. Currently, I am pursuing a Bachelor of Technology (B.Tech) in Computer Science and Engineering from Lovely Professional University.
-
 During my time at university, I have actively participated in various hackathons organized by the institution, which have helped me enhance my problem-solving and collaborative development skills. I possess strong coding skills and a keen interest in software development. Additionally, I have led multiple academic and technical projects as a team leader, where I developed my leadership qualities and ability to work effectively in teams.
-
 While I do not have formal job experience yet, I am actively seeking internship opportunities to gain hands-on industry exposure, especially in my third year of college.
-
 Apart from academics, I am passionate about coding and enjoy the satisfaction that comes with building functional and impactful solutions. I also love playing cricket, which keeps me energetic and focused.
-
 I am always eager to learn, collaborate, and grow — both as a developer and as a team contributor.
