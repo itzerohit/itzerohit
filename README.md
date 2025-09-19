@@ -1,5 +1,8 @@
-Hi, I’m Rohit Kumar from Bihar, India. I completed my schooling at Jeewan International School and my senior secondary education at Laxmi Narayan Dubey College. Currently, I am pursuing a Bachelor of Technology (B.Tech) in Computer Science and Engineering from Lovely Professional University.
-During my time at university, I have actively participated in various hackathons organized by the institution, which have helped me enhance my problem-solving and collaborative development skills. I possess strong coding skills and a keen interest in software development. Additionally, I have led multiple academic and technical projects as a team leader, where I developed my leadership qualities and ability to work effectively in teams.
-While I do not have formal job experience yet, I am actively seeking internship opportunities to gain hands-on industry exposure, especially in my third year of college.
-Apart from academics, I am passionate about coding and enjoy the satisfaction that comes with building functional and impactful solutions. I also love playing cricket, which keeps me energetic and focused.
-I am always eager to learn, collaborate, and grow — both as a developer and as a team contributor.
+I’m a B.Tech Computer Science (Data Science) student at Lovely Professional University, passionate about turning data into impactful solutions.
+I’ve built a wide range of end-to-end projects in:
+🧠 Machine Learning (Heart Disease, Churn, Spam Detection)
+📊 Data Analytics (Crime Trends, Excel Dashboards)
+🎮 Python Apps & Games (PIG Dice Game, Mad Libs Generator, Rock Paper Scissors, etc.)
+💡 Skills: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SQL, DBMS, Excel, Streamlit, DSA, GitHub
+📈 I’m focused on mastering ML pipelines, EDA, model tuning, and solving real-world problems.
+🚀 I'm open to internships, collaborations, and opportunities in Data Science, ML, or Python development.
